@@ -73,4 +73,6 @@ For this project we tried using Logisim for the simulation but encountered a few
 Above all odds we retreated back to Digital works that we trust, using Digital works we were able to run different tests of the logic designs we created.
 
 This are some of the examples from our simulation. The full details on our youtube channel.
+![image](https://github.com/user-attachments/assets/b65a7be8-68fa-4a8c-aade-c1bdc43befd2)
+![image](https://github.com/user-attachments/assets/4f6d71c0-c63c-46a9-ba45-bddfafd230ba)
 
