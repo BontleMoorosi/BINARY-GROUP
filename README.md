@@ -1,5 +1,16 @@
 # BINARY-GROUP
 # **BINARY ADDER  ASSIGNMENT**
+## CS3520
+## GROUP MEMBERS
+### MOOROSI BONTLE 202201087
+### MOLAHLEHI TS'OLO 202202131
+### KHANYAPA TLALI 202201987
+### MAKHAHLELA KANANELO 202201985
+### MPAHANE MOTLATSI 202201288
+### JASE BOITUMELO 202201099
+### SEKALAKA BAKOENA 202200993
+
+
 
 ## **OBJECTIVE**
 The objective of this project is to design and simulate a 2-bit binary adder using basic digital logic gates like AND, OR, and XOR. The circuit will add two 2-bit binary numbers and output the correct sum and carry. Using simulation, the circuit verifies its functionality and accuracy  of the logic circuit.  Documentation of the entire process, from design to testing , to all errors encountered and over come. The project ensures understanding of  digital logic design and teaches presentation of projeccts using modern collaboration and publishing tools.
@@ -17,17 +28,13 @@ The objective of this project is to design and simulate a 2-bit binary adder usi
 2. Full Adder: Combines two Half Adders to handle the addition of two bits plus a carry bit. This is required for the most significant bit (MSB).
 
 ### Circuit design
-First Half Adder:
-
+#### First Half Adder:
 -  Inputs: A0 (least significant bit of the first number) and B0 (least significant bit of the second number).
 - Outputs: Sum S0 and Carry C0.
-
-Second Half Adder:
-
+#### Second Half Adder:
 -  Inputs: A1 (most significant bit of the first number), B1 (most significant bit of the second number), and Carry C0 from the first half adder.
 - Outputs: Sum S1 and Carry C1.
-
-OR Gate:
+#### OR Gate:
 Combine the carry outputs from the two half adders (C0 and C1) to produce the final carry-out (C2).
 
 ### Execution
