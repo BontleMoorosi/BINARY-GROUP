@@ -117,3 +117,5 @@ This are some of the examples from our simulation. The full details on our youtu
 
 ### **TESTING**
 We used digital works to test weither our circuit were arithmetically correct or there was an error in our system. A youtube video attatched to the file details the steps in our testing phase and the errors incurred while testing.
+https://youtu.be/cHErCBPIGgA
+
